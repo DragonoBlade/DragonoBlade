@@ -1,5 +1,4 @@
 # Jovaun Henriques
-# Jovaun Henriques
 Aspiring Full Stack Developer | Enthusiastic Learner | Future Tech Innovator
 
 ## About Me
