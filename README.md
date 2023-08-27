@@ -17,9 +17,9 @@ When I'm not immersed in code, you'll find me exploring other interests:
 Join me on this exciting journey as I learn, create, and contribute. If you share a passion for coding, and technology, or just want to connect, feel free to reach out. Together, we can make a positive impact with innovation!
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jovaun Heriques)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JovaunHeriques)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jovaun Henriques&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JovaunHenriques&show_icons=true)  
  
 🌐 Explore my work: [Portfolio/Blog Link]
 
