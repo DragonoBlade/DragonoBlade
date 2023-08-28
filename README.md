@@ -17,7 +17,7 @@ When I'm not immersed in code, you'll find me exploring other interests:
 Join me on this exciting journey as I learn, create, and contribute. If you share a passion for coding, and technology, or just want to connect, feel free to reach out. Together, we can make a positive impact with innovation!
  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JovaunHenriques)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JovaunHenriques)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JovaunHenriques&show_icons=true)  
  
