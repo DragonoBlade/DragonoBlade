@@ -14,7 +14,7 @@ When I'm not immersed in code, you'll find me exploring other interests:
 - **Coding:** Turning ideas into reality through lines of code and creative problem-solving.
 
 ## 📨 Let's Connect and Collaborate
-Join me on this exciting journey as I learn, create, and contribute. If you share a passion for coding, and technology, or just want to connect, feel free to reach out. Together, we can make a positive impact with innovation!
+Join me on this exciting journey as I learn, create, and contribute. Feel free to reach out if you share a passion for coding and technology or want to connect. Together, we can make a positive impact with innovation!
  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JovaunHenriques)
