@@ -23,7 +23,7 @@ Join me on this exciting journey as I learn, create, and contribute. Feel free t
  
 🌐 Explore my work: [Portfolio/Blog Link]
 
-📫 Connect on LinkedIn: [LinkedIn Profile Link]
+📫 Connect on LinkedIn: [www.linkedin.com/in/jovaun-henriques-37b61b195]
 
 🐦 Follow on Twitter: [Twitter Profile Link]
 
